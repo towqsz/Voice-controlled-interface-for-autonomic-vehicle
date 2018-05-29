@@ -1,0 +1,14 @@
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\bin\Debug\CircularGaugeDemoWPF.exe.config
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\bin\Debug\CircularGaugeDemoWPF.exe
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\bin\Debug\CircularGaugeDemoWPF.pdb
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\bin\Debug\CircularGauge.dll
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\bin\Debug\CircularGauge.pdb
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\Window1.baml
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\Window1.g.cs
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\App.g.cs
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF_MarkupCompile.cache
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF.g.resources
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF.Properties.Resources.resources
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF.csproj.GenerateResource.Cache
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF.exe
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\CircularGaugeDemoWPF\obj\Debug\CircularGaugeDemoWPF.pdb

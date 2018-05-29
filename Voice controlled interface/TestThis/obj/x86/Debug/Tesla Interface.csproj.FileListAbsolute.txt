@@ -1,0 +1,6 @@
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\bin\Debug\TestThis.exe.config
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\obj\x86\Debug\TestThis.exe
+C:\Users\TSCU01\Desktop\Programy\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\obj\x86\Debug\TestThis.pdb
+C:\Users\TSCU01\Desktop\Programy\VS2\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\bin\Debug\TestThis.exe.config
+C:\Users\TSCU01\Desktop\Programy\VS2\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\obj\x86\Debug\TestThis.exe
+C:\Users\TSCU01\Desktop\Programy\VS2\VS\g\WPF-Circular-Gauge-master\CircularGauge\TestThis\obj\x86\Debug\TestThis.pdb
